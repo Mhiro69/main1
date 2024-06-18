@@ -1,0 +1,2 @@
+nixx = {"uname":"nixx","pass":"123","name":"asdf","email":"mhiro.3@gmail.com","phone":"09275241101"}
+nix = {"uname":"nix","pass":"123","name":"asdf","email":"mhiro.3@gmail.com","phone":"09275241101"}
